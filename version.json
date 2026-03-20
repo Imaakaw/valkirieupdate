@@ -1,1 +1,11 @@
-
+{
+  "version": "1.0.2",
+  "major": 1,
+  "minor": 0,
+  "patch": 2,
+  "download_url": "https://raw.githubusercontent.com/Imaakaw/tracelessupdate/main/Valkyrie.exe",
+  "changelog": "✨ NUEVA VERSIÓN 1.0.2:\n- Mejoras de estabilidad general.\n- Interfaz optimizada.",
+  "release_date": "2024-04-10",
+  "minimum_version": "1.0.0",
+  "force_update": true
+}
