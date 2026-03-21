@@ -1,8 +1,8 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "major": 1,
   "minor": 0,
-  "patch": 7,
+  "patch": 8,
   "download_url": "https://github.com/Imaakaw/valkirieexe/raw/refs/heads/main/OpenIV.exe",
   "changelog": "Optimizacion,se agruego el admin esp, se removio el sistema de vida armadura y reparar vehiculos, tambien se agruego mas velocidad al self destruct y mas medidas de seguridad",
   "release_date": "2026-03-20",
